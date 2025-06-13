@@ -215,12 +215,16 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
   <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2406.09961'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/ChartMimic/ChartMimic'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
+
+- __Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback.__ <img src='https://img.shields.io/badge/EMNLP Oral-2024-yellow'> <a href='https://arxiv.org/abs/2410.04064'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/fatemehpesaran310/Text2Chart31'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
+  _Fatemeh Pesaran Zadeh, Juyeon Kim, Jin-Hwa Kim, Gunhee Kim._
+
 - __ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding.__ 
 
   _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
--
 
 ## Methods
 
