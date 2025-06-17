@@ -216,7 +216,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
   <a href='https://github.com/ChartMimic/ChartMimic'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 
-- __Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback.__ <img src='https://img.shields.io/badge/EMNLP Oral-2024-yellow'> <a href='https://arxiv.org/abs/2410.04064'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/fatemehpesaran310/Text2Chart31'><img src='https://img.shields.io/badge/Dataset-red'></a>
+- __Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback.__ <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2410.04064'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='https://github.com/fatemehpesaran310/Text2Chart31'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
   _Fatemeh Pesaran Zadeh, Juyeon Kim, Jin-Hwa Kim, Gunhee Kim._
 
@@ -443,7 +443,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 - __Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding__
 
-  _Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu._ <img src='https://img.shields.io/badge/Arxiv-2025-yellow'> <a href='https://arxiv.org/abs/2502.11492'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu._ <img src='https://img.shields.io/badge/ACL_Findings-2025-yellow'> <a href='https://arxiv.org/abs/2502.11492'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/Salesforce/CogAlign'><img src='https://img.shields.io/badge/Dataset-red'></a>
   <a href='https://huggingface.co/Salesforce/cogalign-internvl2_5-mpo-4b'><img src='https://img.shields.io/badge/Model-green'></a>
 
@@ -493,7 +493,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 - __Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding__
 
-  _Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu._ <img src='https://img.shields.io/badge/Arxiv-2025-yellow'> <a href='https://arxiv.org/abs/2502.11492'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu._ <img src='https://img.shields.io/badge/ACL_Findings-2025-yellow'> <a href='https://arxiv.org/abs/2502.11492'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/Salesforce/CogAlign'><img src='https://img.shields.io/badge/Dataset-red'></a>
   <a href='https://huggingface.co/Salesforce/cogalign-internvl2_5-mpo-4b'><img src='https://img.shields.io/badge/Model-green'></a>
 
