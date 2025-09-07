@@ -33,7 +33,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ### Chart Question Answering
 
-**Factoid Questions**
+**Factoid Questions**not sure
 
 - __DVQA: Understanding Data Visualizations via Question Answering.__ 
 
